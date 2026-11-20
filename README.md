@@ -1,6 +1,6 @@
 # Technical Portfolio — Matthew Christensen
 
-A portfolio built as a journey through space. A perspective camera follows a connected constellation from Matthew's profile to four project destinations. Home, About, and Projects remain available in the top navigation.
+
 
 ![Home route with the current GitHub profile portrait and project constellation](docs/previews/home.png)
 
@@ -39,11 +39,11 @@ The scene uses Three.js vectors, camera projection, and splines, with Canvas 2D 
 
 The uploaded **Resume - Matthew Christensen.docx** and Matthew's [GitHub profile](https://github.com/mtchr) are the biographical sources. The uploaded résumé takes precedence over the older résumé website where dates differ. The original résumé document, phone number, and street address are not included in this repository.
 
-- The portrait is the current [mtchr GitHub profile image](https://avatars.githubusercontent.com/u/248929292?v=4), retrieved November 17, 2026. It replaces the older image in the résumé website repository.
-- [Patrol Center](https://github.com/mtchr/Traffic-Vehicle-App-): architecture from the repository README; solo-project scope, 70 hours, and 20 ticketing hours saved weekly from the supplied résumé. The image is an original architecture illustration, labeled accordingly.
-- [ShopWyse](https://github.com/mtchr/Shopwyse_Grocery_App): project README and static frontend. Presented as a team prototype; non-Kroger prices are described as estimates.
-- [CougarCalc](https://github.com/mtchr/is404-cougarcalc): `docs/README.md` and the calculator frontend. Presented as coursework; AWS deployment architecture is not a claim that an AWS deployment was independently verified.
-- [Northwest Aquarium](https://github.com/mtchr/Aquarium-App): the `Northwest.html` booking interface. Presented as a frontend prototype.
+- The portrait is the current [mtchr GitHub profile image](https://avatars.githubusercontent.com/u/248929292?v=4), 
+- [Patrol Center](https://github.com/mtchr/Traffic-Vehicle-App-): 
+- [ShopWyse](https://github.com/mtchr/Shopwyse_Grocery_App): p
+- [CougarCalc](https://github.com/mtchr/is404-cougarcalc): 
+- [Northwest Aquarium](https://github.com/mtchr/Aquarium-App): 
 
 The three interface images are captures of the public source rendered locally, without signing in, submitting forms, or connecting to live application data. The portfolio never calls the original applications' APIs. External project links open their GitHub repositories.
 
@@ -55,7 +55,6 @@ The three interface images are captures of the public source rendered locally, w
 - `src/style.css`: responsive layout and appearance.
 - `public/assets/`: current portrait, project images, architecture illustration, and favicon.
 
-Google Fonts is optional; system fonts are used if it cannot load. Code and images are bundled or served locally; the portfolio does not fetch GitHub data at runtime.
 
 ## Verify
 
